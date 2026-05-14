@@ -1,2 +1,3 @@
 docs/test_transaction.csv
 docs/train_transaction.csv
+teste/data/*.csv
